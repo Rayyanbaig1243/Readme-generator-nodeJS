@@ -18,8 +18,7 @@ to generate a good readme file.
 ## Installation: 
 To install the needed dependencies, please run the following command: npm i
     
-## Usage: 
-    
+## Usage:  
 Special instructions for usage: There is nothing special or unique about this repo.
 ## Technology Used: 
     
